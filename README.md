@@ -1,0 +1,2 @@
+# generatorDanychTestowych
+generatorDanychTestowych
